@@ -1,0 +1,2 @@
+First install ocaml and related packages in Fedora 20.
+Then, just run build.sh
